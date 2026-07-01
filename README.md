@@ -3,10 +3,11 @@
 A sleek, modern auto clicker built with Python, `sv_ttk`, and `pynput`. Features a borderless dark-themed UI, global hotkey support, and real-time key/mouse binding.
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-## Download & Preview
+## Download
 
 [Download App](https://github.com/senanto/auto-clicker/releases/download/v1/auto-clicker.exe)
+---
+## Preview
 <img width="418" height="462" alt="image" src="https://github.com/user-attachments/assets/9e369a7e-565c-49a6-977d-20cece37f165" />
 
 ## Features
